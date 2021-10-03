@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=hajeeee)
+![](https://komarev.com/ghpvc/?username=hajeeee&color=ff69b4)
 
 - 👋 Hi, I’m @hajeeee
 - 👀 I’m interested in ...
