@@ -1,6 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=hajeeee&color=ff69b4)
 
-- 👋 Hi, I’m @hajeeee
+## Hiiiii <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm Haje!
+
+## 💬 Introduction
+I'm Haje Noorjamani, currently undergoing my journey as an undergraduate student on ITB. Looking forward to learn new skills and add them in the list.
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
