@@ -3,7 +3,7 @@
 ## Hiiiii <img src="https://raw.githubusercontent.com/hajeeee/hajeeee/main/Hi.gif" width="30px">, I'm Haje!
 
 ## 💬 Introduction
-I'm Haje Noorjamani, currently undergoing my journey as an undergraduate student on ITB. 
+My name is Haje Noorjamani. I'm currently undergoing my journey as an undergraduate student in Bandung Institute of Technology. 
 - 👀 
 - 🌱 
 - 💞️ 
